@@ -19,3 +19,4 @@ My englis is very very bad, i'm force to look at google trad 🤣
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Fanouu&show_icons=true&count_private=true&hide_title=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Fanouu)
+[Fanouu](https://github.com/Fanouu)
