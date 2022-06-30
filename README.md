@@ -12,8 +12,9 @@ My englis is very very bad, i'm force to look at google trad 🤣
 
 - PHP (PMMP)
 - JavaScript (Discord.Js)
-- Learn Python 
-- Learn Java (Spigot)
+- Java (Spigot)
+- Learn Python
+- Learn C++/C#
 
 ## Here my stats:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Fanouu&show_icons=true&count_private=true&hide_title=true)
