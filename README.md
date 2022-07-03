@@ -20,7 +20,7 @@ My englis is very very bad, i'm force to look at google trad 🤣
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Fanouu&show_icons=true&count_private=true&hide_title=true)
 
 <p align="center"><a href="#">
-  <img src="https://github-profile-trophy.vercel.app/?username=royaljacques&margin-w=28&margin-h=15&theme=radical&hide_border=true">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fanouu&margin-w=28&margin-h=15&theme=radical&hide_border=true">
 </p>
 
 [![GitHub: @Fanouu](https://img.shields.io/github/followers/Fanouu?label=follow&style=social)](https://github.com/Fanouu)
