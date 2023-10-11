@@ -10,10 +10,9 @@ My englis is very very bad, i'm force to look at google trad 🤣
 
 ## Performance:
 
-- PHP (PMMP)
-- JavaScript (Discord.Js)
-- Java (Spigot)
-- Learn Python
+- PHP
+- JavaScript
+- Python
 - Learn C++/C#
 
 ## Here my stats:
