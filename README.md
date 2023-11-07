@@ -6,8 +6,6 @@ I'm like IT and Cloud Computing 📚
 
 I'm live in France, in the countryside 😎
 
-My englis is very very bad, i'm force to look at google trad 🤣  
-
 ## Performance:
 
 - PHP
