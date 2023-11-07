@@ -11,7 +11,7 @@ I'm live in France, in the countryside 😎
 - PHP
 - JavaScript
 - Python
-- Learn C++/C#
+- Learn C++/C# & Lua
 
 ## Here my stats:
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Fanouu&show_icons=true&count_private=true&hide_title=true)
